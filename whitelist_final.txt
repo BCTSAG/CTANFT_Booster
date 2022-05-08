@@ -13370,13 +13370,6 @@ TZDcD9kzNzWhUbueWy1EfxE1oAKid1VkCt
 0xCb08817bfA87C4fc6c01CFbbBdea092dC37D519E
 0x068DA57CAC5F79Cc4F19609A87056f15D8027ca2
 0xb15D0552A69628b94F0C72FbC81FC6043e21F0C6
-
-root@localhost:~/playground/WALLETgenerator/DistributionCycle3# 
-root@localhost:~/playground/WALLETgenerator/DistributionCycle3# 
-root@localhost:~/playground/WALLETgenerator/DistributionCycle3# 
-root@localhost:~/playground/WALLETgenerator/DistributionCycle3# node scripts/readFile.js > publicguilde7.txt
-root@localhost:~/playground/WALLETgenerator/DistributionCycle3# node scripts/readFile.js > publicguilde8.txt
-root@localhost:~/playground/WALLETgenerator/DistributionCycle3# cat publicguilde7.txt 
 0xD74A8feE9b4169940b631fb65bBc07C96F2eEE59
 0xE2A2AE98765AC58b8a2e25c32E9232d445E3CB96
 0x2b2b2a7221560e9f7C4273f661A7D02e588bB783
