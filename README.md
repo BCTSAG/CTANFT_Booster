@@ -1,4 +1,4 @@
 # CTANFT_Booster
 
-This repository has migrated to https://github.com/crosstheages/tcg-nft-presale-whitelist/
+This repository is not maintained anymmore it has migrated to https://github.com/crosstheages/tcg-nft-presale-whitelist/
 
