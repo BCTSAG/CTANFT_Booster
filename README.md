@@ -1,5 +1,4 @@
 # CTANFT_Booster
-whitelist for booster airdrop whitelist_standard.txt
 
+This repository has migrated to https://github.com/crosstheages/tcg-nft-presale-whitelist/
 
-and whitelist for booster presale whitelist_final.txt 
